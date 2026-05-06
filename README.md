@@ -1,8 +1,8 @@
-***Opis rzeczywistości 
+### Opis rzeczywistości 
 
 Firma informatyczno-techniczna zajmuje się projektowaniem, wdrażaniem oraz utrzymaniem infrastruktury sieciowej dla klientów biznesowych. W ramach swojej działalności firma obsługuje klientów, przygotowuje oferty, realizuje projekty sieciowe, instaluje urządzenia, wykonuje prace montażowe oraz prowadzi serwis infrastruktury.
 
-#Klienci i lokalizacje
+## Klienci i lokalizacje
 
 Firma współpracuje z klientami biznesowymi.
 Dla każdego klienta konieczne jest przechowywanie danych identyfikacyjnych firmy, takich jak nazwa, numer NIP, dane osoby kontaktowej, numer telefonu oraz adres e-mail.
@@ -12,7 +12,7 @@ Lokalizacja opisywana jest przez dane adresowe: ulicę, numer domu, numer lokalu
 
 Jedna lokalizacja może być przypisana zarówno do klienta, jak i do realizowanego projektu.
 
-#Pracownicy firmy
+# Pracownicy firmy
 
 W firmie zatrudnione są różne grupy pracowników, pełniące odmienne role organizacyjne:
   Handlowcy, którzy odpowiadają za kontakt z klientami oraz przygotowywanie ofert handlowych.
