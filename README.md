@@ -15,14 +15,10 @@ Jedna lokalizacja może być przypisana zarówno do klienta, jak i do realizowan
 ## Pracownicy firmy
 
 W firmie zatrudnione są różne grupy pracowników, pełniące odmienne role organizacyjne:
-
   Handlowcy, którzy odpowiadają za kontakt z klientami oraz przygotowywanie ofert handlowych.
-  
   Kierownicy, którzy zarządzają projektami oraz odpowiadają za ich realizację i nadzór.
-  
   Pracownicy operacyjni, którzy wykonują prace techniczne, montażowe, serwisowe oraz kontrolne w terenie.
   
-
 Dla każdego pracownika przechowywane są dane osobowe, stanowisko, data zatrudnienia oraz dodatkowe informacje charakterystyczne dla pełnionej funkcji (np. prowizja, zysk z projektu, zmiana pracy, wykształcenie).
 
 ## Oferty
