@@ -1,4 +1,4 @@
-###Opis rzeczywistości 
+***Opis rzeczywistości 
 
 Firma informatyczno-techniczna zajmuje się projektowaniem, wdrażaniem oraz utrzymaniem infrastruktury sieciowej dla klientów biznesowych. W ramach swojej działalności firma obsługuje klientów, przygotowuje oferty, realizuje projekty sieciowe, instaluje urządzenia, wykonuje prace montażowe oraz prowadzi serwis infrastruktury.
 
