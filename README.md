@@ -1,3 +1,5 @@
+### English below
+
 # Opis rzeczywistości 
 
 Firma informatyczno-techniczna zajmuje się projektowaniem, wdrażaniem oraz utrzymaniem infrastruktury sieciowej dla klientów biznesowych. W ramach swojej działalności firma obsługuje klientów, przygotowuje oferty, realizuje projekty sieciowe, instaluje urządzenia, wykonuje prace montażowe oraz prowadzi serwis infrastruktury.
@@ -87,3 +89,123 @@ Każda usterka jest rejestrowana w systemie i zawiera:
   projekt, w ramach którego urządzenie zostało zainstalowane.
 
 System umożliwia prowadzenie historii awarii oraz działań serwisowych.
+
+---------------------------------------------------------
+
+# Reality Description
+
+The IT and technical company specializes in designing, implementing, and maintaining network infrastructure for business clients. As part of its operations, the company serves customers, prepares commercial offers, carries out network projects, installs devices, performs installation work, and provides infrastructure maintenance services.
+
+
+# Clients and Locations
+
+The company cooperates with business clients.
+
+For each client, it is necessary to store company identification data such as the company name, tax identification number (NIP), contact person details, phone number, and email address.
+
+Each client may have one or more locations (branches, offices, headquarters) where projects are carried out.
+
+Location is described by address details: street, building number, apartment number, postal code, city, and country.
+
+One location may be assigned both to a client and to a project.
+
+
+# Company Employees
+
+The company employs different groups of employees performing different organizational roles:
+
+Sales representatives, who are responsible for client communication and preparing commercial offers.
+
+Managers, who manage projects and are responsible for their implementation and supervision.
+
+Operational employees, who perform technical, installation, maintenance, and inspection work in the field.
+
+For each employee, personal data, position, employment date, and additional information characteristic of the role are stored (e.g., commission, project profit, work shift, education).
+
+
+# Offers
+
+The service implementation process begins with preparing an offer for the client.
+
+The offer is created by a sales representative and contains information about:
+
+- creation date,
+- financial value,
+- implementation status,
+- the client for whom it was prepared,
+- the employee responsible for preparing the offer.
+
+The offer may be accepted and then become the basis for project implementation.
+
+
+# Projects
+
+A project is created based on an accepted offer.
+
+The project describes a specific undertaking carried out for the client and contains information about:
+
+- start and end dates,
+- implementation status,
+- budget,
+- project manager,
+- the offer on which the project was based.
+
+The project may be carried out in one or multiple client locations.
+
+
+# Project Technical Specification
+
+Each project contains a detailed technical specification describing the parameters of the planned network infrastructure, such as:
+
+- network type (e.g., LAN, WAN, WLAN),
+- network topology,
+- guaranteed bandwidth,
+- cabling standard,
+- additional technical information.
+
+The specification serves as the basis for selecting devices and planning project implementation.
+
+
+# Devices and Network Infrastructure
+
+The company uses various network devices such as routers, switches, access points, and firewalls.
+
+For each type of device, information about the type, manufacturer, and number of available units is stored.
+
+Devices may contain different communication ports of specific types (e.g., Ethernet, fiber optic).
+
+Within projects, specific device units identified by serial numbers are used.
+
+
+# Communication Protocols
+
+The system stores information about network protocols used in the infrastructure (e.g., TCP/IP, HTTP, HTTPS).
+
+These protocols are assigned to devices, which allows determining what communication standards are supported by the infrastructure.
+
+
+# Installation Tasks
+
+As part of project implementation, operational employees perform installation tasks such as:
+
+- device installation,
+- configuration,
+- infrastructure testing,
+- quality control.
+
+Each task is assigned to a specific project and employee and has a defined payment rate.
+
+
+# Failures and Maintenance
+
+During infrastructure operation, failures may occur.
+
+Each failure is registered in the system and contains:
+
+- problem description,
+- occurrence date,
+- employee reporting the failure,
+- device affected by the problem,
+- project within which the device was installed.
+
+The system allows maintaining a history of failures and maintenance activities.
